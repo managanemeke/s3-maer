@@ -1,0 +1,1 @@
+f6d31b5d-070c-48ff-9ef7-c8792dfb9222 bucket=maer datacenter=US encryption=none host=storage.yandexcloud.net name=yandex-storage port=80 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1795153261s
